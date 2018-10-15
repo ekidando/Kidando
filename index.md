@@ -1,9 +1,13 @@
-# <center> <font color='steelblue'> Emmanuel Kidando </font> </center>
-## <center> <font color='steelblue'> Graduate Research Assistant, Data Scientist </font> </center>
+<hr style="height:4px;border:none;color:steelblue;background-color:steelblue;" />
 
+# <center> <font color='steelblue'> Emmanuel Kidando </font> </center>
+## <center> <font color='steelblue'> Data Analytics | Civil Engineering </font> </center>
+## <center> <font color='steelblue'> Florida State Universty </font> </center>
+
+<hr style="height:4px;border:none;color:steelblue;background-color:steelblue;" />
 
 ### <font color='lightgray'> Bio </font>  
-Emmanuel is currently a Doctoral Candidate in Civil Engineering at Florida (FSU) working on Implemenation of Connected Vehicle Infrastructure Systems and Data Analytics in Transportation Research working under [<a href="http://www.eng.fsu.edu/~moses/">Dr. Ren Moses</a>]. As a statistical data scientist, I am interested in parametric and nonparametric models, machine learning methods, deep learning frameworks, cloud computing, statistical modeling techniques and design of experiments.
+Emmanuel is currently a Doctoral Candidate in Civil Engineering at Florida (FSU) working on Implemenation of Connected Vehicle Infrastructure Systems and Data Analytics in Transportation Research working under <a href="http://www.eng.fsu.edu/~moses/">Dr. Ren Moses</a>. As a statistical data scientist, I am interested in parametric and nonparametric models, machine learning methods, deep learning frameworks, cloud computing, statistical modeling techniques and design of experiments.
 
 I just completed an internship with JACOBS (Summer 2018) where I worked on Intelligent Transportation Systems design architecture, vehicle to infrastructure communication devices and the operations of dedicated short-range communications. I have employed my Data Science expertise to predict conditions on roadway using machine learning (ensemble methods), deep learning frameworks and statistical models for connected and autonomous vehicle case studies.
 
