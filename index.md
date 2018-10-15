@@ -18,16 +18,16 @@ I enjoy working on interdisciplinary research in engineering, statistics and com
 
 ### <font color='lightgray'> Education </font>  
 Ph.D. in Civil Engineering 
-***Florida State University*** – Spring 2019
-Dissertation: Dynamic Evolution of Traffic Conditions and Its Application in Urban Traffic Mobility
+***Florida State University*** – Spring 2019, 
+Dissertation: Data Analystics in Traffic Operations
 
 Masters in Civil and Transportation Engineering 
-***Tennessee State University*** – 2015
-Thesis: Predicting Degradation of Pavement Marking Retroreflectivity under Roadway, Traffic, and Topographic Factors
+***Tennessee State University*** – 2015,
+Thesis: Development of Prediction Models 
 
 B.Sc. in Civil and Structural Engineering
-***University of Dar es Salaam*** – 2012
-Final year project: Model for Strengthening the Existing Concrete Elements
+***University of Dar es Salaam*** – 2012,
+Final year project: Strengthen of Beam Element and Concrete Testing 
 
 ### <font color='lightgray'>Research Interests </font>
 
