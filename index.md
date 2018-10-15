@@ -19,11 +19,11 @@ I enjoy working on interdisciplinary research in engineering, statistics and com
 ### <font color='lightgray'> Education </font>  
 Ph.D. in Civil Engineering 
 ***Florida State University*** – Spring 2019, 
-Dissertation: Data Analystics in Traffic Operations
+Dissertation: Data Analytics in Traffic Operations
 
 Masters in Civil and Transportation Engineering 
 ***Tennessee State University*** – 2015,
-Thesis: Development of Prediction Models 
+Thesis: Developed Prediction Models for Pavement Marking lifecycle
 
 B.Sc. in Civil and Structural Engineering
 ***University of Dar es Salaam*** – 2012,
