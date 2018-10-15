@@ -1,12 +1,4 @@
 
-
-# <center> <font color='steelblue'> Emmanuel Kidando </font> </center>
-## <center> <font color='steelblue'> Data Analytics & Civil Engineering
-                                       Florida State University </font> </center>
-
-
-
-
 ### <font color='lightgray'> Bio </font>  
 Emmanuel is currently a Doctoral Candidate in Civil Engineering at Florida (FSU) working on Implemenation of Connected Vehicle Infrastructure Systems and Data Analytics in Transportation Research working under <a href="http://www.eng.fsu.edu/~moses/">Dr. Ren Moses</a>. As a statistical data scientist, I am interested in parametric and nonparametric models, machine learning methods, deep learning frameworks, cloud computing, statistical modeling techniques and design of experiments.
 
