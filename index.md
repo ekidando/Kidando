@@ -13,21 +13,23 @@ Thesis: Predicting Degradation of Pavement Marking Retroreflectivity under Roadw
 B.Sc. in Civil and Structural Engineering
 University of Dar es Salaam – 2012
 Final year project: Model for Strengthening the Existing Concrete Elements
-Research Interests
-Traffic Safety Analysis and Modeling
-Traffic Operations Modeling and Simulation
-Intelligent Transportation Systems
-- Automated Traffic Signal Performance Measure Systems
-- Autonomous and Connected Vehicles Technology
-- Data Analytics and Visualization for Connected Transportation Systems
-Data Collection Methods and Data Visualization in Transportation
-- Application of Computer vision (to estimate Volume, Speed, and Density)
-- Traffic data from Crowdsourced systems, such as Open Street Map (OSM), Waze, Bing Map API
-- Data visualization and dashboard design 
-Application of Advanced Statistical Analysis in Transportation
-  • Machine Learning
-- Bayesian Nonparametric Models
-- Bayesian Hierarchal/Multilevel Models
-- Bayesian Mixture Models
-- Probabilistic Graphical Models, such as Hidden Markov Models, Bayesian Networks, and Markov Chains
+
+### <font color='lightgray'>Research Interests </font>
+
+- Traffic Safety Analysis and Modeling
+- Traffic Operations Modeling and Simulation
+- Intelligent Transportation Systems
+	- Automated Traffic Signal Performance Measure Systems
+	- Autonomous and Connected Vehicles Technology
+	- Data Analytics and Visualization for Connected Transportation Systems
+- Data Collection Methods and Data Visualization in Transportation
+	- Application of Computer vision (to estimate Volume, Speed, and Density)
+	- Traffic data from Crowdsourced systems, such as Open Street Map (OSM), Waze, Bing Map API
+	- Data visualization and dashboard design 
+- Application of Advanced Statistical Analysis in Transportation
+	- Machine Learning
+	- Bayesian Nonparametric Models
+	- Bayesian Hierarchal/Multilevel Models
+	- Bayesian Mixture Models
+	- Probabilistic Graphical Models, such as Hidden Markov Models, Bayesian Networks, and Markov Chains
 
