@@ -1,8 +1,36 @@
-# Emmanuel Kidando
+# <center> <font color='navy'> Emmanuel Kidando </font> </center>
 
-You can use the [editor on GitHub](https://github.com/ekidando/emmanuelkidando/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Education  
+Ph.D. in Civil Engineering 
+Florida State University – Spring 2019
+Dissertation: Dynamic Evolution of Traffic Conditions and Its Application in Urban Traffic Mobility
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Masters in Civil and Transportation Engineering 
+Tennessee State University – 2015
+Thesis: Predicting Degradation of Pavement Marking Retroreflectivity under Roadway, Traffic, and Topographic Factors
+
+B.Sc. in Civil and Structural Engineering
+University of Dar es Salaam – 2012
+Final year project: Model for Strengthening the Existing Concrete Elements
+Research Interests
+Traffic Safety Analysis and Modeling
+Traffic Operations Modeling and Simulation
+Intelligent Transportation Systems
+- Automated Traffic Signal Performance Measure Systems
+- Autonomous and Connected Vehicles Technology
+- Data Analytics and Visualization for Connected Transportation Systems
+Data Collection Methods and Data Visualization in Transportation
+- Application of Computer vision (to estimate Volume, Speed, and Density)
+- Traffic data from Crowdsourced systems, such as Open Street Map (OSM), Waze, Bing Map API
+- Data visualization and dashboard design 
+Application of Advanced Statistical Analysis in Transportation
+  • Machine Learning
+- Bayesian Nonparametric Models
+- Bayesian Hierarchal/Multilevel Models
+- Bayesian Mixture Models
+- Probabilistic Graphical Models, such as Hidden Markov Models, Bayesian Networks, and Markov Chains
+
+
 
 ### Markdown
 
