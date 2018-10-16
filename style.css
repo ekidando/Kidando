@@ -33,6 +33,7 @@ body {
 	color: #232323;
 /*color: #333;*/
 	background-color: #e5e5e5;
+    background-image: url("images/1.jpg")
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
