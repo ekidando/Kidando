@@ -1,6 +1,6 @@
 
-### <font color='lightgray'> Bio </font>  
-Currently, I'm  a Doctoral Candidate in Civil Engineering at Florida (FSU) working on Implemenation of Connected Vehicle Infrastructure Systems and Data Analytics in Transportation Research working under <a href="http://www.eng.fsu.edu/~moses/">Dr. Ren Moses</a>. As a statistical data scientist, I am interested in parametric and nonparametric models, machine learning methods, deep learning frameworks, cloud computing, statistical modeling techniques and design of experiments.
+### <font color='lightgray'> About me </font>  
+I am a Doctoral Candidate in Transportation Engineering at Florida (FSU) working on Implemenating of Connected Vehicle Infrastructure Systems and Connected Vehicle Data Analytics under supervision of <a href="http://www.eng.fsu.edu/~moses/">Dr. Ren Moses</a>. As a statistical data scientist, I am interested in parametric and nonparametric models, machine learning methods, deep learning frameworks, cloud computing, statistical modeling techniques and design of experiments.
 
 I have a practical experience on Bayesian data analytics and Machine learning application where I worked on Intelligent Transportation Systems design architecture, vehicle to infrastructure communication devices and the operations of dedicated short-range communications. I have employed my Data Science expertise to predict conditions on roadway using machine learning (ensemble methods), deep learning frameworks and statistical models for connected and autonomous vehicle case studies.
 
@@ -40,3 +40,4 @@ Final year project: Strengthen of Beam Element and Concrete Testing
 	- Bayesian Mixture Models
 	- Probabilistic Graphical Models, such as Hidden Markov Models, Bayesian Networks, and Markov Chains
 
+Core Technical Skills
