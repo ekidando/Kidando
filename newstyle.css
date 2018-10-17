@@ -188,15 +188,11 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #intro .block ul {
   padding-top: 20px;
-  font-size: 15px;
+  font-size: 23px;
 }
 #intro .block ul li {
   
-  font-size: 15px;
-  line-height: 40px;
-  font-weight: 600;
-    text-transform: capitalize;
-  position: relative;
+  font-size: 23px;
 }
 
 
