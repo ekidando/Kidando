@@ -170,7 +170,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #intro .block a {
-  color: #d4d9db;
+  color: #45839b;
   padding-top: 20px;
   font-size: 23px;
 }
@@ -241,10 +241,12 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 33px;
   margin: 0;
   font-size: 30px;
+  color: #fff;
 }
 #call-to-action p {
   font-size: 14px;
   line-height: 1.6;
+  color: #fff;
 }
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
