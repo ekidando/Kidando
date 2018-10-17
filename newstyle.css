@@ -184,7 +184,23 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title p {
   padding-top: 20px;
+  }
+
+#intro .ul {
+  border: 1px solid #999999;
+  display: inline-block;
+  margin-bottom: 40px;
 }
+#portfolio-work .ul li {
+  
+  font-size: 15px;
+  line-height: 40px;
+  font-weight: 600;
+    text-transform: capitalize;
+  position: relative;
+}
+
+
 /*--
 	service Start
 --*/
