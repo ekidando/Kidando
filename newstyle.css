@@ -91,7 +91,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
 /*---------------------------------------------
-					Bio intro
+					
 -----------------------------------------------*/
 /*--
 	Slider Start
@@ -153,7 +153,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 50px 0;
   background-color: #d4d4d8;
   
 }
@@ -171,8 +171,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #intro .block a {
   color: #45839b;
-  padding-top: 20px;
-  font-size: 23px;
+ 
 }
 
 
