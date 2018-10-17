@@ -154,7 +154,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
-  background-color: #706d91;
+  background-color: #d4d4d8;
   
 }
 #intro .block h2 {
@@ -164,7 +164,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #f1f1f1;
+  color: #424244;
   padding-top: 20px;
   font-size: 23px;
 }
