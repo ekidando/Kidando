@@ -186,12 +186,11 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
   }
 
-#intro .ul {
-  border: 1px solid #999999;
-  display: inline-block;
-  margin-bottom: 40px;
+#intro .block ul {
+  padding-top: 20px;
+  font-size: 15px;
 }
-#portfolio-work .ul li {
+#intro .block ul li {
   
   font-size: 15px;
   line-height: 40px;
