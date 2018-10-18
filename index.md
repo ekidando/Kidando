@@ -1,9 +1,4 @@
----
-layout: page
-title: Our Work
-permalink: /
----
-<!DOCTYPE html>
+
 
 <head>
 <link rel="stylesheet" href="newstyle.css">
@@ -236,4 +231,4 @@ permalink: /
     </div>
   </div>
 </section>
-</html>
+
