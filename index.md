@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <head>
 <link rel="stylesheet" href="newstyle.css">
 <link rel="stylesheet" href="animate.css"> 
@@ -231,4 +231,4 @@
     </div>
   </div>
 </section>
-
+<html>
