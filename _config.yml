@@ -17,3 +17,10 @@ avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
 markdown: kramdown
 # theme: minima
 permalink: pretty
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
