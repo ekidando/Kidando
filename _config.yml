@@ -1,5 +1,5 @@
 # Site Settings
-title: Emmanuel Kidando
+#title: Emmanuel Kidando
 #Name
 #name: Emmanuel Kidando
 # Bio
@@ -13,5 +13,5 @@ url: "https://ekidando.github.io" # the base hostname & protocol for your site
 baseurl: "/emmanuelkidando"
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
