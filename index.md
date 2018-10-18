@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <head>
 <link rel="stylesheet" href="newstyle.css">
@@ -230,5 +230,4 @@
     </div>
   </div>
 </section>
-  
-</html>
+
