@@ -12,7 +12,6 @@ url: "https://ekidando.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/emmanuelkidando"
 
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
 # Build settings
 markdown: kramdown
 
