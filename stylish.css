@@ -176,6 +176,16 @@ hr.small {
 }
 
 
+.main-nav {
+    list-style-type: none;
+    display: none;
+}
+
+
+.active {
+            display: block;
+        }
+
 
 
 
