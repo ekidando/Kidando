@@ -54,7 +54,19 @@ body {
 hr.small {
     max-width: 100px;
 }
+/* Side Menu r */
 
+	#nav ul li a {
+		color: #888;
+	}
+
+		#nav ul li a.active {
+			background: #1C2022;
+		}
+
+	#headerToggle .toggle {
+		background-color: #888;
+	}
 /* Side Menu */
 
 #sidebar-wrapper {
