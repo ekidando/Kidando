@@ -155,6 +155,19 @@ hr.small {
     color: rgba(255, 255, 255, 0.7);
 }
 
+.main-nav li {
+    text-align: center;
+    margin: 15px auto;
+}
+.logo {
+    display: inline-block;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+
 
 
 
