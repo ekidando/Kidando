@@ -82,6 +82,11 @@ hr.small {
   
 }
 
+
+ .sidebar-nav > .menuUp {
+        box-shadow: none;
+    }
+
 .sidebar-nav li {
     text-indent: 20px;
     line-height: 40px;
