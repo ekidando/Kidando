@@ -162,6 +162,8 @@ hr.style1 {
   font-weight: 300;
   letter-spacing: 3px;
 }
+
+
 /*--
 	wrapper Start
 --*/
@@ -203,6 +205,51 @@ hr.style1 {
   padding-top: 20px;
   font-size: 23px;
 }
+
+
+/*--
+	Research project block
+--*/
+#resercpro {
+  padding: 50px 0px;
+  background-color: #515166;
+  
+}
+#resercpro .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  color: #f0f0f0;
+  margin: 0;
+}
+#resercpro .block p {
+  color: #424244;
+  padding-top: 20px;
+  font-size: 23px;
+}
+
+#resercpro .block a {
+  color: #f0f0f0;
+ 
+}
+
+
+#resercpro .block img {
+  padding-left: 40px;
+  width: 100%;
+}
+#resercpro .section-title {
+  margin-bottom: 0px;
+}
+#resercpro .section-title p {
+  padding-top: 20px;
+  }
+
+#resercpro .block ul {
+  padding-top: 20px;
+  font-size: 23px;
+}
+
+
 
 /*--
 	Page-link
