@@ -142,6 +142,11 @@ hr.small {
   width: 100%;
   background-color: #4d4d4d;
   position: absolute;
+  top: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  
 }
 
 .nav > .nav-header {
