@@ -18,28 +18,19 @@
   <!-- head close -->
 <body>
 
-<div class="nav">
-  <div class="nav-header">
-    <div class="nav-title">
-      JoGeek
-    </div>
-  </div>
-  <div class="nav-btn">
-    <label for="nav-check">
-      <span></span>
-      <span></span>
-      <span></span>
-    </label>
-  </div>
-  <input type="checkbox" id="nav-check">
-  <div class="nav-links">
-    <a href="#top">Home</a>
-   <a href="#about">About me</a>
-    <a href="File/publication.html">Publications</a>
-    <a href="#research">Research Projects</a>
-   <a href="#data">Data Visualization</a>
-    <a href="#contact">Contact</a>
-  </div>
+
+<nav id="sidebar-wrapper">
+  <ul class="sidebar-nav">
+      <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>    
+    <li><a href="#top" onclick = $("#menu-close").click(); >Home</a></li>
+    <li><a href="#about" onclick = $("#menu-close").click(); >About me</a></li>
+    <li><a href="File/publication.html" onclick = $("#menu-close").click(); >Publications</a></li>
+    <li><a href="#research" onclick = $("#menu-close").click(); >Research Projects</a></li>
+    <li><a href="#data" onclick = $("#menu-close").click(); >Data Visualization</a></li>
+    <li><a href="#contact" onclick = $("#menu-close").click(); >Contact</a></li>
+ </ul>
+
+    </nav>
   
   		
  	
