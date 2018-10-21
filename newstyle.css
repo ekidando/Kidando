@@ -96,6 +96,8 @@ font header .navbar-default .navbar-nav li a:hover {
 
 -----------------------------------------------*/
 
+
+
 .colorlinehz {
   color: #5f5b63;
 }
@@ -104,6 +106,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-decoration: underline;
 }
 
+
+/* Wrapper */
+.wrapper {
+  width:960px;
+}
 
 
 /*--
