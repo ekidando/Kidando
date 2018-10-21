@@ -97,16 +97,16 @@ font header .navbar-default .navbar-nav li a:hover {
 -----------------------------------------------*/
 
 
-hr {
+.hrline {
     border: none;
     border-top: 3px double #333;
-    color: #333;
+    color: #5f5b63;
     overflow: visible;
     text-align: center;
     height: 5px;
 }
 
-hr:after {
+hrline:after {
     background: #5f5b63;
     content: '§';
     padding: 0 4px;
