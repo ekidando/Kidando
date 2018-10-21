@@ -97,9 +97,8 @@ font header .navbar-default .navbar-nav li a:hover {
 -----------------------------------------------*/
 
 
-.hrline {
-    border: none;
-    border-top: 3px double #333;
+hr.style {
+    border-top: 3px solid #333;
     color: #e2e2e2;
     background: #e2e2e2;
     overflow: visible;
@@ -107,7 +106,7 @@ font header .navbar-default .navbar-nav li a:hover {
     height: 15px;
 }
 
-hrline:after {
+hr:after {
     background: #e2e2e2;
     content: '§';
     padding: 0 4px;
