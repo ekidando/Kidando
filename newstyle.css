@@ -103,11 +103,11 @@ font header .navbar-default .navbar-nav li a:hover {
     color: #5f5b63;
     overflow: visible;
     text-align: center;
-    height: 5px;
+    height: 15px;
 }
 
 hrline:after {
-    background: #5f5b63;
+    background: #e2e2e2;
     content: '§';
     padding: 0 4px;
     position: relative;
