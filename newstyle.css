@@ -107,7 +107,7 @@ hr {
 }
 
 hr:after {
-    background: #fff;
+    background: #5f5b63;
     content: '§';
     padding: 0 4px;
     position: relative;
