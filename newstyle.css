@@ -280,10 +280,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #research-page .block p {
   font-size: 40px;
-  line-height: 40px;
+  line-height: 60px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  letter-spacing: 60px;
+  letter-spacing: 3px;
   color: #fff;
 }
 #research-page .btn-call-to-action {
