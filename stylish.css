@@ -82,6 +82,10 @@ hr.small {
   
 }
 
+.main-nav {
+    list-style-type: none;
+    display: none;
+}
 
 .sidebar-nav li {
     text-indent: 20px;
