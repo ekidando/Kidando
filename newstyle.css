@@ -101,6 +101,7 @@ font header .navbar-default .navbar-nav li a:hover {
     border: none;
     border-top: 3px double #333;
     color: #e2e2e2;
+    background: #e2e2e2;
     overflow: visible;
     text-align: center;
     height: 15px;
