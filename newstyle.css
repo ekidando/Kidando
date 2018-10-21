@@ -278,7 +278,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 70px;
   color: #fff;
 }
-#research-page p {
+#research-page .block p {
   font-size: 30px;
   line-height: 10px;
   font-family: 'Roboto', sans-serif;
