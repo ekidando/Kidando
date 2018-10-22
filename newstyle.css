@@ -213,23 +213,23 @@ hr.style1 {
 --*/
 #resercpro {
   padding: 50px 0px;
-  background-color: #515166;
+  background-color: #c6c6c6;
   
 }
 #resercpro .block h2 {
   padding-top: 35px;
   line-height: 27px;
-  color: #f0f0f0;
+  color: #383737;
   margin: 0;
 }
 #resercpro .block p {
-  color: #f0f0f0;
+  color: #383737;
   padding-top: 20px;
   font-size: 23px;
 }
 
 #resercpro .block a {
-  color: #45839b;
+  color: #383737;
  
 }
 
@@ -248,9 +248,14 @@ hr.style1 {
 #resercpro .block ul {
   padding-top: 20px;
   font-size: 23px;
-  color: #f0f0f0;
+  color: #383737;
 }
 
+#resercpro .block li {
+  padding-top: 20px;
+  font-size: 23px;
+  color: #383737;
+}
 
 
 /*--
