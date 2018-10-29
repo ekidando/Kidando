@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
     vertical-align: middle;
    /* make a square container */
     width: 150px;
-    height: 650px;
+    height: 450px;
   /* fill the container, preserving aspect ratio, and cropping to fit */
     background-size: cover;
 
