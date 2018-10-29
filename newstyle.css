@@ -98,9 +98,9 @@ font header .navbar-default .navbar-nav li a:hover {
 
 .avatar {
     vertical-align: middle;
-    width: 500px;
-    height: 500px;
-    border-radius: 80%;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
 }
 
 
