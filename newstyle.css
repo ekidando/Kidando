@@ -185,10 +185,16 @@ hr.style1 {
 --*/
 #intro {
   padding: 50px 0px;
-  background-color: #d4d4d8;
-	
-  
+    
 }
+
+.selectColorg{
+    background-color: #d4d4d8;
+}
+.selectedColorr{
+    background-color: #5c5c5e;
+}
+
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
