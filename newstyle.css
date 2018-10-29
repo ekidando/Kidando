@@ -99,7 +99,7 @@ font header .navbar-default .navbar-nav li a:hover {
 .avatar {
     vertical-align: middle;
    /* make a square container */
-    width: 150px;
+    width: 50px;
     height: 450px;
   /* fill the container, preserving aspect ratio, and cropping to fit */
     background-size: cover;
@@ -183,6 +183,11 @@ hr.style1 {
 /*--
 	wrapper Start
 --*/
+
+.paColorr{
+    background-color: #5c5c5e;
+}
+
 #intro {
   padding: 50px 0px;
     
