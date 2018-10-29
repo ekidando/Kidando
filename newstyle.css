@@ -201,8 +201,15 @@ hr.style1 {
   color:  #424244;
   margin: 0;
 }
+
+
+.selectColortxt{
+    background-color: #424244;
+}
+.selectedColortx{
+    background-color: #f9f9f9;
+}
 #intro .block p {
-  color: #424244;
   padding-top: 20px;
   font-size: 23px;
 }
