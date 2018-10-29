@@ -437,6 +437,15 @@ hr.style1 {
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
+
+#call-to-action h1 {
+  padding-bottom: 20px;
+  line-height: 33px;
+  margin: 0;
+  font-size: 60px;
+  color: #fff;
+}
+
 #call-to-action h2 {
   padding-bottom: 20px;
   line-height: 33px;
