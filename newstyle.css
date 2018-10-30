@@ -108,7 +108,7 @@ font header .navbar-default .navbar-nav li a:hover {
     background-position: top center;
 
     /* round the edges to a circle with border radius 1/2 container size */
-    border-radius: 20%;
+    border-radius: 70%;
 }
 
 
